@@ -9,7 +9,7 @@ execute:
   enabled: true
 format:
     revealjs:
-        footer: "NIU Open Software Week | 11-15 August 2025"
+        footer: "NIU Open Software Summer School | 17-28 August 2026"
         slide-number: c
         menu:
             numbers: true
@@ -51,13 +51,13 @@ format:
 :::
 
 ::: {.column}
-- [Event guide](https://docs.google.com/document/d/1pQGML9twa-GnqQNDtNRg1P2_Wwzvl1b61A6fLzpY_2Q/edit?usp=sharing)
-- [Event website](https://neuroinformatics.dev/open-software-week/)
+- [Event guide](https://docs.google.com/document/d/16tlglX_sN1CfUWneMnVTqjx78XEXLUU_LjADVM3FOKo/edit?usp=sharing)
+- [Event website](https://neuroinformatics.dev/open-software-summer-school)
 :::
 ::::
 
 ::: aside
-These slides are available at <https://neuroinformatics.dev/slides-osw25-intro>
+These slides are available at <https://github.com/neuroinformatics-unit/slides-osss-intro>
 :::
 
 ## Neuroinformatics Unit
@@ -66,13 +66,13 @@ These slides are available at <https://neuroinformatics.dev/slides-osw25-intro>
 
 ## Code of Conduct
 
-* Reminder: please follow the [code of conduct](https://docs.google.com/document/d/1pQGML9twa-GnqQNDtNRg1P2_Wwzvl1b61A6fLzpY_2Q/edit?tab=t.6jlq0oph6gve)
+* Reminder: please follow the [code of conduct](https://docs.google.com/document/d/16tlglX_sN1CfUWneMnVTqjx78XEXLUU_LjADVM3FOKo/edit?tab=t.adfezapzy955)
 * Summary: be kind, respectful and professional
-* Contacts: Adam, Sofia, Niko or Alessandro
+* Contacts: Adam, Sofia, Niko, or Alessandro
 
 ## Schedule
 
-![](img/schedule-2025.png)
+![](img/schedule-2026.png)
 
 ## Maps
 
@@ -91,11 +91,14 @@ Ask a member of NIU for a quiet space
 ## Ask for help
 
 * Ask any member of NIU
-* Use the `OSW-2025` channel on Zulip
+* Use the `OSSS-2026` channel on Zulip
 * Work together
 * Let Adam know if you don't want to appear in photos
 
 ## Join the socials
+
+TODO: this will change week 1 vs. 2
+
 * Monday: walk to Primrose Hill
 * Tuesday: Celtic folk music in King's Cross
 * Wednesday: pub quiz at SWC
@@ -108,24 +111,13 @@ Feel free to self-organise using the "Social" topic on Zulip!
 ![](img/sponsor-logos.png){height=50% width=50% fig-align=center}
 ![](img/all-funders.png){height=80% width=80% fig-align=center}
 
-## The Software Sustainability Institute (SSI)
-<https://www.software.ac.uk/>
-
->The SSI was the first organisation in the world dedicated to improving software in research. They help build better and more sustainable research software to enable world-class research.
-
-::: aside
-[Fellowship applications open](https://www.software.ac.uk/programmes/fellowship-programme/apply-fellowship-programme)
-
-(Niko and Alessandro are current fellows and happy to advise)
-:::
-
 ## Enjoy!
 
 :::: {.columns}
 ::: {.column}
 * Remember to have fun!
 * Meet new people - follow [the PacMan rule](https://psychsafety.com/the-pac-man-rule/).
-* Think of [hackday ideas!](https://github.com/neuroinformatics-unit/osw25-hackday/issues)
+* Think of [ideas for the collaboration days!](https://github.com/neuroinformatics-unit/osss26-collaboration-day)
 :::
 ::: {.column}
 ![](img/pac-man.png)
