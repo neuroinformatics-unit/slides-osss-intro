@@ -68,7 +68,7 @@ These slides are available at <https://github.com/neuroinformatics-unit/slides-o
 
 * Reminder: please follow the [code of conduct](https://docs.google.com/document/d/16tlglX_sN1CfUWneMnVTqjx78XEXLUU_LjADVM3FOKo/edit?tab=t.adfezapzy955)
 * Summary: be kind, respectful and professional
-* Contacts: Adam, Sofia, Niko, or Alessandro
+* Contacts: Adam, Sofia, Niko or Alessandro
 
 ## Schedule
 
