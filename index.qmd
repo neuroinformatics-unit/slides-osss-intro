@@ -1,5 +1,5 @@
 ---
-title: NIU Open Software Week
+title: NIU Open Software Summer School
 title-slide-attributes:
   data-background-color: "#000"
   data-background-image: img/sainsbury-wellcome-centre_darker.png
@@ -29,7 +29,7 @@ format:
     html:
         theme: [default, niu-light.scss]
         logo: img/logo_niu_light.png
-        date: "2023-07-05"
+        date: "2026-08-17"
         toc: true
         code-overflow: scroll
         highlight-style: atom-one
@@ -95,16 +95,23 @@ Ask a member of NIU for a quiet space
 * Work together
 * Let Adam know if you don't want to appear in photos
 
-## Join the socials
+## Join the socials {.smaller}
 
-TODO: this will change week 1 vs. 2
+Week 1
 
-* Monday: walk to Primrose Hill
-* Tuesday: Celtic folk music in King's Cross
-* Wednesday: pub quiz at SWC
-* Thursday: AlgoChill in Farringdon ([sign up](https://lu.ma/3z1ureee))
+* Tuesday 18th August: Celtic folk music near King's Cross
+* Thursday 20th August: Walk to Primrose Hill
 
-Feel free to self-organise using the "Social" topic on Zulip!
+Week 2
+
+* Tuesday 25th August: Celtic folk music near King's Cross
+* Thursday 27th August: Run
+* Friday 28th August: Walk to Primrose Hill
+
+::: aside
+More details in the event guide and on the "Social" topic on Zulip.
+Use that topic self-organise additional social activities.
+:::
 
 ## Made possible by {.smaller}
 
