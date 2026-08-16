@@ -95,14 +95,27 @@ Ask a member of NIU for a quiet space
 * Work together
 * Let Adam know if you don't want to appear in photos
 
+## AI policy {.smaller}
+
+**During teaching & exercises**
+
+* Learning requires friction!
+* No AI assistants inside your IDE or terminal (Copilot, Cursor, Claude Code, etc.)
+* Chat-based tools are fine for looking things up, like a search engine
+
+**During collaboration days**
+
+* AI use is up to you
+* If working on a joint project, agree on it with your collaborators first
+
 ## Join the socials {.smaller}
 
-Week 1
+**Week 1**
 
 * Tuesday 18th August: Celtic folk music near King's Cross
 * Thursday 20th August: Walk to Primrose Hill
 
-Week 2
+**Week 2**
 
 * Tuesday 25th August: Celtic folk music near King's Cross
 * Thursday 27th August: Run
