@@ -62,7 +62,14 @@ These slides are available at <https://github.com/neuroinformatics-unit/slides-o
 
 ## Neuroinformatics Unit
 
-![](img/niu-team.png)
+:::: {.columns}
+::: {.column}
+![](img/niu-team-1.png) 
+:::
+::: {.column}
+![](img/niu-team-2.png)
+:::
+::::
 
 ## Code of Conduct
 
@@ -123,7 +130,7 @@ Ask a member of NIU for a quiet space
 
 ::: aside
 More details in the event guide and on the "Social" topic on Zulip.
-Use that topic self-organise additional social activities.
+Use that topic to self-organise additional social activities.
 :::
 
 ## Made possible by {.smaller}
@@ -147,17 +154,14 @@ Use that topic self-organise additional social activities.
 
 # Collaboration days
 
-## Our definition of "hack"
+## Our definition of collaboration
 
-collaborate on a small project in quick, dirty and fun way
+Work together on a small project in quick, dirty and fun way
 
 ## Schedule
-- 10-10:30 Intro/Pitches
-- 10:30-11 Group formation
-- 11-1     Hack
-- 1-2      Lunch
-- 2-4      Hack
-- 4-5      Report back
+
+- Thursday 10:00 - 17:00
+- Friday 10:00 - 17:00
 
 ## Goal
 
@@ -185,7 +189,7 @@ Opportunity to foster:
 :::
 ::::
 
-## Hacking tips {.smaller}
+## Collaboration tips {.smaller}
 
 Everyone gets opportunity to contribute
 
@@ -204,7 +208,7 @@ Look after yourself
 * Take breaks, stretch, rest your eyes
 * Enjoy
 
-## Hacking tips {.smaller}
+## Collaboration tips {.smaller}
 
 * Settle on doable plan
 
@@ -226,7 +230,7 @@ We will check in regularly
 
 [GitHub project board](https://github.com/orgs/neuroinformatics-unit/projects/21)
 
-# Hack!
+# Have fun!
 
 
 
