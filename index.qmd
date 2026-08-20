@@ -163,6 +163,28 @@ Work together on a small project in quick, dirty and fun way
 - Thursday 10:00 - 17:00
 - Friday 10:00 - 17:00
 
+## Thursday (approximate) {.smaller}
+
+10:00 - 11:15: Intro to collaboration, getting started
+11:30 - 13:00: Git course (part 1) / collaboration
+
+14:00 - 15:30: Git course (part 2) / collaboration
+15:30 - 15:45: Spike sorting with SpikeInterface (Chris Halcrow) / collaboration
+15:45 - 17:00: collaboration
+
+17:00 Trusted by design: set up your research software for community adoption (Niko Sirmpilatze)
+
+17:45 Walk to Primrose Hill
+
+## Friday (approximate)
+
+Collaboration 10:00-16:00
+
+11:00 Napari-GUI for manual tracklets refinement (Anna Teruel) / collaboration
+14:00: A high-level introduction to whole-brain image analysis with BrainGlobe (Alessandro Felder) / collaboration
+
+16:00 Lightning talks
+
 ## Goal
 
 Enable knowledge exchange through hands-on work
