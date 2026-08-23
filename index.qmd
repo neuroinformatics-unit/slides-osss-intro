@@ -166,24 +166,28 @@ Work together on a small project in quick, dirty and fun way
 ## Thursday (approximate) {.smaller}
 
 10:00 - 11:15: Intro to collaboration, getting started
+
 11:30 - 13:00: Git course (part 1) / collaboration
 
 14:00 - 15:30: Git course (part 2) / collaboration
-15:30 - 15:45: Spike sorting with SpikeInterface (Chris Halcrow) / collaboration
+
+15:30 - 15:45: Data management with datashuttle (Joe Ziminski) / collaboration
+
 15:45 - 17:00: collaboration
 
-17:00 Trusted by design: set up your research software for community adoption (Niko Sirmpilatze)
-
-17:45 Walk to Primrose Hill
+17:45 Running social: meet Wolf outside SWC in running gear.
 
 ## Friday (approximate)
 
 Collaboration 10:00-16:00
 
-11:00 Napari-GUI for manual tracklets refinement (Anna Teruel) / collaboration
-14:00: A high-level introduction to whole-brain image analysis with BrainGlobe (Alessandro Felder) / collaboration
+11:00 A high-level introduction to whole-brain image analysis with BrainGlobe (Alessandro Felder); Adapting cellfinder to single-channel and 2.5-D data (Soumya Snigdha Kundu)
+
+14:00 QUINT workflow (Harry Carey)
 
 16:00 Lightning talks
+
+17:45 Walk to Primrose Hill
 
 ## Goal
 
@@ -240,7 +244,7 @@ Things will go wrong – that’s OK!
 * You have a very short amount of time!
 * Focus on minimum viable "product"
 
-Report back in short lightning presentations at 4 PM [(joint slide-deck)](https://docs.google.com/presentation/d/1_nT-tYBanzLO-Bhi1Dy2DwIdgcyR-Gjej4ZMoD4lGko/edit?usp=sharing)
+Report back in short lightning presentations at 4 PM [(joint slide-deck)](https://docs.google.com/presentation/d/1bVvpB7u46DEUsfPD5V6A08xU_hmRg7d9WYDDPKsDHhk/edit?usp=sharing)
 
 * What you did
 * What you learnt
